@@ -1,0 +1,15 @@
+public class Ifelse {
+	
+public static void main(String args[]) {
+	int value=45 ;
+		if (value >= 75) {
+	System.out.println("Hello");
+	} else if (value >= 65) {
+	System.out.println("Hi"); 
+	} else if (value >= 40 ) {
+	 System.out.println("Good");
+	 } else {
+	System.out.println("Fail");
+	}
+  }
+}

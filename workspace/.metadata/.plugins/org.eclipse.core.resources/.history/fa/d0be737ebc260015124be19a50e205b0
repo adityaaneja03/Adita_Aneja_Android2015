@@ -1,0 +1,13 @@
+
+public class ifelsenested {
+public static void main(String args[]) {
+}
+ int test1=5;
+ int test2=3
+		 
+ if (test1==5) && (test2==3);{
+	 
+ }
+
+}
+

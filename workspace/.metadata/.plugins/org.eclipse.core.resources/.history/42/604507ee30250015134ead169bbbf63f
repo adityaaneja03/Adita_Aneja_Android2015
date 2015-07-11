@@ -1,0 +1,26 @@
+public class Ifelse {
+	
+public static void main(String args[]) {
+	int value=3;
+	
+	if (value>=4) {
+		
+	System.out.println("Hello");
+	}
+	
+	else if (value>=3) {
+	
+	System.out.println("Hi"); }
+	
+	else if (value>=2) {
+	
+	 System.out.println("what");}
+
+
+	
+}
+
+}
+		
+
+
